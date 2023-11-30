@@ -11,5 +11,3 @@ if st.button("calcular"):
     st.title(resultado)
 
 st.title("calculadora")
-
-st. writer("----")
